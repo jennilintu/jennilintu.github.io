@@ -125,7 +125,7 @@ Papa.parse("https://jennilint.github.io/cosmeticcompanies.csv", {
                         brandContainer.style.width = "120px";
                         brandContainer.style.height = "auto";
                         brandContainer.style.padding = "3px";
-                        brandContainer.style.outline = "5px solid #ffffff";
+                        brandContainer.style.outline = "5px solid #f34a50";
                     }
                         
                         let brandContainerText = document.createElement("h4");
